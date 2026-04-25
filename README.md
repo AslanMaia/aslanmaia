@@ -27,7 +27,7 @@ aslan = {
     "location":    "Campinas, SP — Brazil",
     "interests":   ["Analog Electronics", "Circuit Analysis", "Digital Systems",
                     "Applied Mathematics", "Embedded Systems"],
-    "tools":       ["LaTeX", "Python", "MATLAB", "C", "Git"],
+    "tools":       ["LaTeX", "Python", "C", "Git"],
     "currently":   "Diving deep into circuits, signals and set theory ⚡",
     "motto":       "Understand before memorizing."
 }
