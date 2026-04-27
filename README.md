@@ -2,21 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27b0c4&size=32&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Aslan+Maia+%F0%9F%91%8B;Electrical+Engineering+%40+UNICAMP%2FFEEC+%E2%9A%A1;Circuits,+Electronics+%26+Systems;Always+learning,+always+building.)](https://git.io/typing-svg)
 
----
 
 <div align="center">
   <a href="https://github.com/AslanMaia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 12px;" />
   </a>
   <a href="https://www.linkedin.com/in/aslanrodriguesmaia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 12px;" />
   </a>
   <a href="mailto:aslanrodmaia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 12px;" />
   </a>
 </div>
 
----
 
 ## 👨‍💻 About me
 
@@ -40,37 +38,85 @@ aslan = {
 <div align="center">
 
 ### Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=latex" alt="icon" width="65" height="65" />
+      </a>
+      <br>LaTeX
+    </td>
+</tr>
+</table>
+<br><br>
 
 ### Environment
-![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
+      <br>Linux
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
+      <br>VsCode
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="VsCode" />
+      <br>Bash
+    </td>
+  </tr>
+</table>
+<br><br>
 
 ### Exploring
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="65" height="65" alt="MongoDB" />
+      <br>Arduino
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="65" height="65" alt="MongoDB" />
+      <br>RaspberryPi
+    </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+</table>
+<br><br>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanMaia&layout=compact&langs_count=8&theme=react&bg_color=0d1117&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AslanMaia&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AslanMaia&theme=react&hide_border=true&locale=en&card_width=500&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🎓 Education
 
