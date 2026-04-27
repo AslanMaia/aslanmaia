@@ -25,7 +25,6 @@ aslan = {
     "location":    "Campinas, SP — Brazil",
     "interests":   ["Analog Electronics", "Circuit Analysis", "Digital Systems",
                     "Applied Mathematics", "Embedded Systems"],
-    "tools":       ["LaTeX", "Python", "C", "Git"],
     "currently":   "Diving deep into circuits, signals and set theory ⚡",
     "motto":       "Understand before memorizing."
 }
@@ -114,18 +113,6 @@ aslan = {
 <br><br>
 
 </div>
-
----
-
-
-## 🎓 Education
-
-```
-🏛️  Universidade Estadual de Campinas — UNICAMP
-⚡  School of Electrical and Computer Engineering — FEEC
-📚  B.Sc. in Electrical Engineering (in progress)
-📍  Campinas, SP — Brazil
-```
 
 ---
 
