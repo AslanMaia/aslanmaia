@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:27b0c4,50:1a1a4e,100:4169e1&height=140&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=27b0c4&size=32&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Aslan+Maia+%F0%9F%91%8B;Electrical+Engineering+%40+UNICAMP%2FFEEC+%E2%9A%A1;Circuits,+Electronics+%26+Systems;Always+learning,+always+building.)](https://git.io/typing-svg)
 
 
