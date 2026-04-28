@@ -45,11 +45,6 @@ aslan = {
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -81,7 +76,7 @@ aslan = {
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
-      <br>VsCode
+      <br>VS Code
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="VsCode" />
@@ -105,8 +100,8 @@ aslan = {
     </td>
       </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
     </td>
  </tr>
 </table>
