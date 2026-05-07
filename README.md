@@ -14,7 +14,7 @@
 </div>
 
 
-## 👨‍💻 About me
+## About me
 
 ```python
 aslan = {
@@ -28,7 +28,7 @@ aslan = {
 }
 ```
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <div align="center">
 
