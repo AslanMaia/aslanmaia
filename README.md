@@ -2,14 +2,11 @@
 
 
 <div align="center">
-  <a href="https://github.com/AslanMaia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 12px;" />
-  </a>
   <a href="https://www.linkedin.com/in/aslanrodriguesmaia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 12px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 16px;" />
   </a>
   <a href="mailto:aslanrodmaia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 12px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 16px;" />
   </a>
 </div>
 
@@ -18,13 +15,11 @@
 
 ```python
 aslan = {
-    "university":  "UNICAMP — FEEC (Universidade Estadual de Campinas)",
+    "university":  "UNICAMP — Universidade Estadual de Campinas",
     "degree":      "Electrical Engineering",
-    "location":    "Campinas, SP — Brazil",
-    "interests":   ["Analog Electronics", "Circuit Analysis", "Digital Systems",
-                    "Applied Mathematics", "Embedded Systems"],
-    "currently":   "Diving deep into circuits, signals and set theory ⚡",
-    "motto":       "Understand before memorizing."
+    "interests":   ["Analog Electronics", "Circuit Analysis", "Digital Systems", "Applied Mathematics", "Embedded Systems"],
+    "currently":   "Doing undergraduate research with a fellowship",
+    "motto":       "First, solve the problem. Then, write the code."
 }
 ```
 
@@ -32,7 +27,6 @@ aslan = {
 
 <div align="center">
 
-### Core
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -51,21 +45,13 @@ aslan = {
       </a>
       <br>LaTeX
     </td>
-</tr>
-</table>
-<br><br>
-
-### Environment
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="65" height="65" />
       <br>Linux
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
@@ -74,61 +60,12 @@ aslan = {
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
       <br>VS Code
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="VsCode" />
-      <br>Bash
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="65" height="65" alt="MongoDB" />
+      <br>Arduino
     </td>
   </tr>
 </table>
 <br><br>
-
-### Exploring
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=arduino" width="65" height="65" alt="MongoDB" />
-      <br>Arduino
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=raspberrypi" width="65" height="65" alt="MongoDB" />
-      <br>RaspberryPi
-    </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
- </tr>
-</table>
-<br><br>
-
 </div>
 
----
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  " First, solve the problem.                             ║
-  ║    Then, write the code. "                               ║
-  ╚══════════════════════╦═══════════════════════════════════╝
-                         
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢠⡤⣤⠄⢀⢤⠤⠤⠄⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⡀⠤⡴⢡⠉⡰⠁⡰⠔⡡⠂⠍⠚⡷⢠⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⣀⠤⢞⡕⠕⡤⣀⠈⣇⢣⠰⠠⠊⠀⠊⣠⣮⠢⠽⢵⠀⠀⠀⠀⠀
-⠀⢀⣞⡉⠁⢂⠌⠜⡀⣟⡠⡌⢄⣖⣕⣥⠶⠋⠐⠂⠄⠙⡈⡄⠀⠀⠀⠀
-⢠⡿⢓⣀⣑⣤⡪⣤⣷⣟⠵⠚⠛⠻⡙⠄⠀⠠⠀⡀⠈⠀⢙⠃⠀⠀⠀⠀
-⣼⣠⣴⣤⣄⡘⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠲⠦⢄⣤⣥⢜⡆⠀⠀⠀⠀⠀
-⢰⠋⠔⡩⡲⠹⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠚⠁⠖⠄⣿⠇⠀⠀⠀⠀⠀
-⢸⡎⠈⡎⡐⡑⢥⡀⢤⠤⠖⠂⣁⣠⠞⠉⠀⠀⠀⠮⢚⠚⣶⠀⠀⠀⠀⠀
-⠈⢷⡀⣧⠈⢴⣿⣶⡵⣶⣾⣷⡋⠀⠀⠀⠀⠀⠀⢨⠁⠀⠀⠳⣶⣆⠀⠀
-⠀⠈⠻⢝⢷⡀⠙⠿⡇⠈⠻⠿⠟⠀⠀⠀⠀⠀⠀⡌⠀⠀⢀⣾⣿⣿⣷⡄
-⠀⠀⠀⠈⠑⢳⡄⠀⠈⠐⢯⡄⠠⠄⠀⠀⠀⡠⠊⠀⠀⢀⣾⣿⣿⣿⡿⠀
-⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⢱⠀⠀⠀⡠⠪⠀⠀⠀⣠⣿⣿⣿⣿⣿⠃⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡱⠖⠈⠀⠀⢑⣠⣾⣿⣿⣿⣿⣿⡟⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠊⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠴⠿⠆⠀⠀⠀⠀⢠⣿⣿⣿⡧⠈⠙⠛⠋⠀⠀⠀
-
-```
